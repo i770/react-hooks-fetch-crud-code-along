@@ -38,3 +38,9 @@
     }
   ]
 }
+{
+  "items": [
+    { "id": 1, "name": "Apple", "category": "Produce", "isInCart": false },
+    { "id": 2, "name": "Milk", "category": "Dairy", "isInCart": false }
+  ]
+}
